@@ -4,10 +4,6 @@ My name is Lukas 👋🏻
 
 I'm a front-end developer based in Stavanger, Norway 🇳🇴
 
-***
-
-![Lukas Strociak's GitHub stats](https://github-readme-stats.vercel.app/api?username=luk-str&show_icons=true&theme=graywhite&hide_title=true&count_private=true)
-
 <!--
 **luk-str/luk-str** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
